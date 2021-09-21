@@ -1,10 +1,24 @@
-# base-rails
-1. To create containers for DB and IT client.
-```
-sudo docker-compose up
-```
-2. To open the IT client.
-```
-sudo docker-compose exec client bash
-```
-Thanks for using this base.
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
